@@ -52,7 +52,7 @@ As variables -columns- the dataset' content relates to clinical,  demographic, n
 | ENTOR: Entorhinal cortex volume | | |
 
 #### :bar_chart:The models:
-Tackling the limitations of the field, there are 3 types of opportunities that can be explore: 
+Tackling the limitations of the field, there are three types of opportunities that can be explore: 
 1. Treatment, specifically segmentation into clinical trials; 
 2. Monitoring, as maximizing the resources in the clinical setting; 
 3. Forecasting, as planning ahead the disease course and moving towards personalized medicine.
