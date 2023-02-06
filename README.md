@@ -52,3 +52,14 @@ As variables -columns- the dataset' content relates to clinical,  demographic, n
 | ENTOR: Entorhinal cortex volume | | |
 
 #### :bar_chart:The models:
+Tackling the limitations of the field, there are 3 types of opportunities that can be explore: 
+1. Treatment, specifically segmentation into clinical trials; 
+2. Monitoring, as maximizing the resources in the clinical setting; 
+3. Forecasting, as planning ahead the disease course and moving towards personalized medicine.
+
+For any of these, traditional data analysis methods are not highly accurate since they usually evaluate occurrence, providing results that can lack precision and are time-consuming and costly. Therefore, we need to apply advance techniques that can lead to a robust evaluation of the key factors.
+The later can be supervised or unsupervised machine learning (ML) algorithm that aid in the generation of categories and profiles. They are flawed, since they do not generate precise representations over time. But, this issue can be dealt by the use of time-dependent probability models.
+The most common ML algorithm used for AD -according to the literature- are: Random Forest, Decision trees, Support Vector Machine, Convolutional Neural Networks, k-Nearest Neighbor. For more information about this, read the article *"The Road to Personalized Medicine in Alzheimer's Disease: The Use of Artificial Intelligence"* [Silva-Spinola et.al 2022 Biomedicines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8869403/pdf/biomedicines-10-00315.pdf) 
+
+»»Size and quality of the data are key aspects for the application of ML algorithm, if there is an interest of increasing the sample there are several strategies that can be applied, for example: Create more synthetic data based on the one provided or apply for access to sources developed for scientific investigation and teaching like the Alzheimer's Disease Neuroimaging Initiative [ADNI](https://adni.loni.usc.edu/data-samples/access-data/). 
+:warning:Both of these approaches require attention to the inherent characteristics of the population, external validity and inclusion/exclusion criteria.
